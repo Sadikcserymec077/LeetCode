@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
