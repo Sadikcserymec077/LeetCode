@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadikcserymec077/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadikcserymec077/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
