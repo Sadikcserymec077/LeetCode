@@ -87,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## String
+|  |
+| ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
