@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2278-percentage-of-letter-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
