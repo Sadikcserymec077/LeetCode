@@ -16,23 +16,33 @@
 class Solution {
     public TreeNode insertIntoBST(TreeNode root, int val) 
     {
-        return dfs(root,val);    
-    }
-    public TreeNode dfs(TreeNode root, int val)
-    {
         if(root == null)
         {
             return new TreeNode(val);
         }
-
-        if(root.val < val)
+        TreeNode curr = root;
+        while(true) 
         {
-            root.right = dfs(root.right, val);
-        }
-        else
-        {
-            root.left = dfs(root.left, val);
+            if(val > curr.val) 
+            {
+                if(curr.right == null)
+                {
+                    curr.right = new TreeNode(val);
+                    break;
+                }
+                curr = curr.right;
+            }
+            else
+            {
+                if(curr.left == null)
+                {
+                    curr.left = new TreeNode(val);
+                    break;
+                }
+                curr = curr.left;
+            }
         }
         return root;
     }
+    
 }
