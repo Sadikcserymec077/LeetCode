@@ -106,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sadikcserymec077/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Two Pointers
+|  |
+| ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
