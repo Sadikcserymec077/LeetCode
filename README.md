@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikcserymec077/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sadikcserymec077/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sadikcserymec077/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikcserymec077/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sadikcserymec077/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sadikcserymec077/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
