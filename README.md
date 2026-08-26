@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadikcserymec077/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sadikcserymec077/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0409-longest-palindrome](https://github.com/Sadikcserymec077/LeetCode/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
