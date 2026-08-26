@@ -1,51 +1,29 @@
 class Solution {
-    public String shortestBeautifulSubstring(String s, int k) {
-       String ans = "";
-
-        // Choose starting index
-        for (int i = 0; i < s.length(); i++) {
-
-            // Number of 1s in current substring
-            int ones = 0;
-
-            // Choose ending index
-            for (int j = i; j < s.length(); j++) {
-
-                // Add current character to our count
-                if (s.charAt(j) == '1') {
-                    ones++;
+    public String shortestBeautifulSubstring(String s, int k) 
+    {
+        int n = s.length();
+        String res = "";   
+        int i=0,j=0;
+        int ones = 0;
+        while(j < n) {
+            if(s.charAt(j) == '1') {
+                ones++;
+            }
+            while(ones > k || (i <= j && s.charAt(i) == '0')) {
+                if(s.charAt(i) == '1') {
+                    ones--;
                 }
-
-                // More than k ones -> impossible to become beautiful
-                if (ones > k) {
-                    break;
-                }
-
-                // Exactly k ones -> beautiful substring
-                if (ones == k) {
-
-                    // Get the actual substring
-                    String current = s.substring(i, j + 1);
-
-                    // First beautiful substring
-                    if (ans.equals("")) {
-                        ans = current;
-                    }
-
-                    // Current substring is shorter
-                    else if (current.length() < ans.length()) {
-                        ans = current;
-                    }
-
-                    // Same length -> choose lexicographically smaller
-                    else if (current.length() == ans.length()
-                            && current.compareTo(ans) < 0) {
-                        ans = current;
-                    }
+                i++;
+            }
+            if(ones == k) {
+                String temp = s.substring(i,j+1);
+                if(res.length() == 0 || res.length() > j-i+1 || 
+                    (temp.length() == res.length() && temp.compareTo(res) < 0)) {
+                    res = temp;
                 }
             }
+            j++;
         }
-
-        return ans; 
+        return res;
     }
 }
