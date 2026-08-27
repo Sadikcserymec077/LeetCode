@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3978-unique-middle-element](https://github.com/Sadikcserymec077/LeetCode/tree/master/3978-unique-middle-element) |
 ## Game Theory
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sadikcserymec077/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -179,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/Sadikcserymec077/LeetCode/tree/master/2951-find-the-peaks) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
