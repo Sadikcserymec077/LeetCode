@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2951-find-the-peaks](https://github.com/Sadikcserymec077/LeetCode/tree/master/2951-find-the-peaks) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
