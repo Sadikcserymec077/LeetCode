@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3340-check-balanced-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3340-check-balanced-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
