@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Sadikcserymec077/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3978-unique-middle-element](https://github.com/Sadikcserymec077/LeetCode/tree/master/3978-unique-middle-element) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sadikcserymec077/LeetCode/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sadikcserymec077/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
