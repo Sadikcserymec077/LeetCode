@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sadikcserymec077/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sadikcserymec077/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1534-count-good-triplets](https://github.com/Sadikcserymec077/LeetCode/tree/master/1534-count-good-triplets) |
 | [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Sadikcserymec077/LeetCode/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/Sadikcserymec077/LeetCode/tree/master/1534-count-good-triplets) |
 | [2951-find-the-peaks](https://github.com/Sadikcserymec077/LeetCode/tree/master/2951-find-the-peaks) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
