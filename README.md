@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sadikcserymec077/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 ## Depth-First Search
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Sadikcserymec077/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/Sadikcserymec077/LeetCode/tree/master/0409-longest-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
