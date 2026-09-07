@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sadikcserymec077/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
 ## Depth-First Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sadikcserymec077/LeetCode/tree/master/0409-longest-palindrome) |
 | [0551-student-attendance-record-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0940-distinct-subsequences-ii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
