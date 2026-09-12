@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sadikcserymec077/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sadikcserymec077/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sadikcserymec077/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Sadikcserymec077/LeetCode/tree/master/1563-stone-game-v) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sadikcserymec077/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sadikcserymec077/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3151-special-array-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/3151-special-array-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sadikcserymec077/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sadikcserymec077/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikcserymec077/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sadikcserymec077/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sadikcserymec077/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
