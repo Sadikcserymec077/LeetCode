@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3978-unique-middle-element](https://github.com/Sadikcserymec077/LeetCode/tree/master/3978-unique-middle-element) |
 ## Game Theory
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sadikcserymec077/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sadikcserymec077/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sadikcserymec077/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Sadikcserymec077/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3340-check-balanced-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3340-check-balanced-string) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sadikcserymec077/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
