@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sadikcserymec077/LeetCode/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sadikcserymec077/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sadikcserymec077/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sadikcserymec077/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sadikcserymec077/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1386-cinema-seat-allocation](https://github.com/Sadikcserymec077/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sadikcserymec077/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sadikcserymec077/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0940-distinct-subsequences-ii](https://github.com/Sadikcserymec077/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sadikcserymec077/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Sadikcserymec077/LeetCode/tree/master/1927-sum-game) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sadikcserymec077/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
