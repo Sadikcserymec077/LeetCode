@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Sadikcserymec077/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3701-compute-alternating-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sadikcserymec077/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikcserymec077/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sadikcserymec077/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sadikcserymec077/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sadikcserymec077/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sadikcserymec077/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sadikcserymec077/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikcserymec077/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sadikcserymec077/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sadikcserymec077/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
