@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sadikcserymec077/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sadikcserymec077/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sadikcserymec077/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2239-find-closest-number-to-zero](https://github.com/Sadikcserymec077/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sadikcserymec077/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sadikcserymec077/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Sadikcserymec077/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
