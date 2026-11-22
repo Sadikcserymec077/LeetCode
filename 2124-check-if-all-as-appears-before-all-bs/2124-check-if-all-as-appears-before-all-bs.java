@@ -1,5 +1,17 @@
 class Solution {
     public boolean checkString(String s) {
-        return !s.contains("ba");
+        boolean seenb=false;
+        for(char c:s.toCharArray())
+        {
+            if(c=='b')
+            {
+                seenb=true;
+            }
+            else if(c=='a' && seenb)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 }
